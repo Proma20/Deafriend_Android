@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.mist.edu.deaf2riend.Howtouse">
+
+    <TextView
+        android:text="2.  Record the desired sound"
+        android:textColor="#000080"
+        android:textStyle="bold"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/textView8"
+        android:layout_alignStart="@+id/textView8"
+        android:layout_marginTop="47dp"
+        android:id="@+id/textView9" />
+
+    <TextView
+        android:text="3. Activate Home page  "
+        android:textColor="#000080"
+        android:textStyle="bold"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/textView9"
+        android:layout_alignStart="@+id/textView9"
+        android:layout_marginTop="48dp"
+        android:id="@+id/textView10" />
+
+    <ImageView
+        android:layout_width="20dp"
+        android:layout_height="20dp"
+        app:srcCompat="@drawable/homeb"
+        android:id="@+id/imageView3"
+        android:cropToPadding="true"
+        android:scaleType="centerInside"
+        android:layout_above="@+id/textView9"
+        android:layout_alignParentEnd="true" />
+
+    <ImageView
+        android:layout_width="20dp"
+        android:layout_height="20dp"
+        app:srcCompat="@drawable/voice2"
+        android:layout_above="@+id/textView10"
+        android:layout_alignParentEnd="true"
+        android:id="@+id/imageView4" />
+
+    <Button
+        android:text="Learn More"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#3b28df"
+        android:textColor="#ffff"
+        android:id="@+id/button"
+        android:layout_marginBottom="24dp"
+        android:layout_above="@+id/imageView7"
+        android:layout_alignParentEnd="true" />
+
+    <ImageView
+        android:layout_width="20dp"
+        android:layout_height="20dp"
+        app:srcCompat="@drawable/active2"
+        android:id="@+id/imageView5"
+        android:layout_alignTop="@+id/textView12"
+        android:layout_alignEnd="@+id/textView9" />
+
+    <TextView
+        android:text="4.You can also deactivate by clicking again the activate button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="#000080"
+        android:textStyle="bold"
+        android:id="@+id/textView11"
+        android:layout_below="@+id/imageView5"
+        android:layout_alignStart="@+id/textView10"
+        android:layout_marginTop="34dp" />
+
+    <ImageView
+        android:layout_width="20dp"
+        android:layout_height="20dp"
+        app:srcCompat="@drawable/flash"
+        android:id="@+id/imageView6"
+        android:layout_above="@+id/textView11"
+        android:layout_alignParentEnd="true" />
+
+    <TextView
+        android:text="1.  Go to Home page"
+        android:textColor="#000080"
+        android:textStyle="bold"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="75dp"
+        android:id="@+id/textView8"
+        android:layout_below="@+id/textView7"
+        android:layout_alignParentStart="true" />
+
+    <TextView
+        android:text="How to Use"
+        android:textColor="#000080"
+        android:textSize="24dp"
+        android:textStyle="bold"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="38dp"
+        android:id="@+id/textView7"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true" />
+
+    <TextView
+        android:text="to get notification"
+        android:textColor="#000080"
+        android:textStyle="bold"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/textView12"
+        android:layout_marginStart="12dp"
+        android:layout_alignBaseline="@+id/textView10"
+        android:layout_alignBottom="@+id/textView10"
+        android:layout_toEndOf="@+id/imageView5" />
+
+    <ImageView
+        android:id="@+id/imageView7"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="12dp"
+        app:srcCompat="@drawable/homeb"
+        android:layout_alignParentBottom="true"
+        android:layout_toStartOf="@+id/imageView6" />
+
+</RelativeLayout>

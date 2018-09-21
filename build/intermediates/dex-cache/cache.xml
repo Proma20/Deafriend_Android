@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Android\.android\build-cache\4581d5292f5b04bcbc447db7084f5a65ee2e4aa2\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="5594469d11afe44ab1fae4ab2b2b3723209dc60e">
+        <dex dex="C:\Users\Administrator\Desktop\Deaf2riend2\app\build\intermediates\pre-dexed\debug\classes_f4957ae81feddff097dea2965ca49a2afff5df66.jar" />
+    </item>
+
+</items>

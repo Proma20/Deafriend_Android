@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\Deaf2riend2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_how_use.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\Deaf2riend2\\app\\src\\main\\res\\drawable-mdpi\\ic_how_use.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\Deaf2riend2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_flash_allert.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\Deaf2riend2\\app\\src\\main\\res\\drawable-mdpi\\ic_flash_allert.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\Deaf2riend2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\about.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\Deaf2riend2\\app\\src\\main\\res\\drawable-mdpi\\about.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\Deaf2riend2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_choose_action.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\Deaf2riend2\\app\\src\\main\\res\\drawable-mdpi\\ic_choose_action.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\Deaf2riend2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_convert_voice.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\Deaf2riend2\\app\\src\\main\\res\\drawable-mdpi\\ic_convert_voice.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\Deaf2riend2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_feed_back.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\Deaf2riend2\\app\\src\\main\\res\\drawable-mdpi\\ic_feed_back.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\Deaf2riend2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_action_name.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\Deaf2riend2\\app\\src\\main\\res\\drawable-mdpi\\ic_action_name.png"
+    }
+]

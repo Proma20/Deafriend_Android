@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\Deaf2riend2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_action_name.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\Deaf2riend2\\app\\src\\main\\res\\drawable-xxhdpi\\ic_action_name.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\Deaf2riend2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_how_use.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\Deaf2riend2\\app\\src\\main\\res\\drawable-xxhdpi\\ic_how_use.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\Deaf2riend2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_feed_back.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\Deaf2riend2\\app\\src\\main\\res\\drawable-xxhdpi\\ic_feed_back.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\Deaf2riend2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_choose_action.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\Deaf2riend2\\app\\src\\main\\res\\drawable-xxhdpi\\ic_choose_action.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\Deaf2riend2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_convert_voice.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\Deaf2riend2\\app\\src\\main\\res\\drawable-xxhdpi\\ic_convert_voice.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\Deaf2riend2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\about.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\Deaf2riend2\\app\\src\\main\\res\\drawable-xxhdpi\\about.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\Deaf2riend2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_flash_allert.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\Deaf2riend2\\app\\src\\main\\res\\drawable-xxhdpi\\ic_flash_allert.png"
+    }
+]

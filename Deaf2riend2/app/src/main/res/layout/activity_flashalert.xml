@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/back"
+    tools:context="com.mist.edu.deaf2riend.flashalert">
+    <TextView
+        android:text="Set Flash Alert"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:textSize="25dp"
+        android:textColor="#060884"
+        android:textStyle="bold"
+        android:id="@+id/textView4" />
+
+    <TextView
+        android:text="Incoming Call Alert"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginTop="120dp"
+        android:layout_below="@id/textView4"
+        android:paddingLeft="20dp"
+        android:textSize="20dp"
+        android:textColor="#060884"
+
+        android:id="@+id/textView2" />
+
+    <Switch
+
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="30dp"
+        android:id="@+id/switch4"
+
+        android:layout_above="@+id/textView3"
+        android:layout_alignParentEnd="true"
+        android:layout_marginEnd="38dp" />
+
+    <TextView
+        android:text="Incoming SMS Alert"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingLeft="20dp"
+
+        android:layout_alignStart="@+id/textView2"
+        android:layout_marginTop="87dp"
+        android:layout_below="@id/textView2"
+        android:textSize="20dp"
+        android:textColor="#060884"
+        android:id="@+id/textView3" />
+
+
+
+
+    <Switch
+
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/switch5"
+
+        android:layout_alignBottom="@+id/textView3"
+        android:layout_alignStart="@+id/switch4" />
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignEnd="@+id/switch5"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="39dp"
+        app:srcCompat="@drawable/homeb" />
+</RelativeLayout>

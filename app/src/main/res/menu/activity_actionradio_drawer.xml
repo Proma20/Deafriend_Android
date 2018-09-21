@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/choose_action2"
+            android:icon="@drawable/ic_choose_action"
+            android:title="Choose your action" />
+        <item
+            android:id="@+id/convert_voice2"
+            android:icon="@drawable/ic_convert_voice"
+            android:title="Convert voice" />
+        <item
+            android:id="@+id/flash_allert2"
+            android:icon="@drawable/ic_flash_allert"
+            android:title="Flash allert" />
+
+    </group>
+
+    <item android:title="Help and Feedback">
+        <menu>
+            <item
+                android:id="@+id/how_use2"
+                android:icon="@drawable/ic_how_use"
+                android:title="How to use" />
+            <item
+                android:id="@+id/about_us2"
+                android:icon="@drawable/about"
+                android:title="About us" />
+            <item
+                android:id="@+id/voice_feed2"
+                android:icon="@drawable/ic_feed_back"
+                android:title="Feedback" />
+        </menu>
+    </item>
+
+
+</menu>

@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\Deaf2riend2\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activate.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\Deaf2riend2\\app\\src\\main\\res\\menu\\activate.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\Deaf2riend2\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_activate_drawer.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\Deaf2riend2\\app\\src\\main\\res\\menu\\activity_activate_drawer.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\Deaf2riend2\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_actionradio_drawer.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\Deaf2riend2\\app\\src\\main\\res\\menu\\activity_actionradio_drawer.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\Deaf2riend2\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_record4_drawer.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\Deaf2riend2\\app\\src\\main\\res\\menu\\activity_record4_drawer.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\Deaf2riend2\\app\\build\\intermediates\\res\\merged\\debug\\menu\\actionradio.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\Deaf2riend2\\app\\src\\main\\res\\menu\\actionradio.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\Deaf2riend2\\app\\build\\intermediates\\res\\merged\\debug\\menu\\record4.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\Deaf2riend2\\app\\src\\main\\res\\menu\\record4.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\Deaf2riend2\\app\\build\\intermediates\\res\\merged\\debug\\menu\\voice_con.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\Deaf2riend2\\app\\src\\main\\res\\menu\\voice_con.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\Deaf2riend2\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_voice_con_drawer.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\Deaf2riend2\\app\\src\\main\\res\\menu\\activity_voice_con_drawer.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\Deaf2riend2\\app\\build\\intermediates\\res\\merged\\debug\\menu\\record.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\Deaf2riend2\\app\\src\\main\\res\\menu\\record.xml"
+    }
+]

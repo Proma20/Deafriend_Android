@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.mist.edu.deaf2riend.activate"
+    tools:showIn="@layout/app_bar_activate"
+    android:weightSum="1">
+
+    <ImageView
+        android:layout_width="250dp"
+        android:layout_height="250dp"
+        android:layout_marginLeft="60dp"
+        app:srcCompat="@drawable/homeic"
+        android:id="@+id/imageView2"
+        android:layout_weight="0.40" />
+
+    <TextView
+        android:text="Friend to deaf"
+        android:textSize="30dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textStyle="italic"
+        android:textColor="#2b18a9"
+
+        android:layout_marginLeft="110dp"
+        android:layout_marginTop="5dp"
+
+        android:id="@+id/textView3"
+        android:layout_weight="0.13" />
+
+    <br.com.bloder.magic.view.MagicButton
+        android:id="@+id/magic_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
+        android:layout_marginLeft="90dp"
+        app:magic_button_size="50dp"
+        app:button_icon="@drawable/active2"
+        app:button_icon_width="25dp"
+        app:button_icon_height="25dp"
+        app:hide_text="Activate"
+        app:icon_button_color="#15d2f4"
+
+        app:expandable_area_color="#158cf4"/>
+
+    <br.com.bloder.magic.view.MagicButton
+        android:id="@+id/magic_button2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:layout_marginLeft="90dp"
+        app:magic_button_size="50dp"
+        app:button_icon="@drawable/active2"
+        app:button_icon_width="25dp"
+        app:button_icon_height="25dp"
+        app:hide_text="Dectivate"
+        app:icon_button_color="#f24b6d"
+        app:expandable_area_color="#f2062a"/>
+
+
+
+</LinearLayout>
+
+
+
+
